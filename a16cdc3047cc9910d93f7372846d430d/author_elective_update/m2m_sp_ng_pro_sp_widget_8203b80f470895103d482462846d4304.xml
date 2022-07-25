@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget">
+    <m2m_sp_ng_pro_sp_widget action="DELETE">
+        <sp_angular_provider display_value="spKBCategoryService">10eb7596c7033200b0b0409b9b97631c</sp_angular_provider>
+        <sp_widget display_value="Copy of KB Categories - KBv3">8203b80f470895103d482462846d4300</sp_widget>
+        <sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name>
+        <sys_created_by>jiunhong.lim</sys_created_by>
+        <sys_created_on>2022-06-17 03:18:57</sys_created_on>
+        <sys_id>8203b80f470895103d482462846d4304</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>spKBCategoryService.Copy of KB Categories - KBv3</sys_name>
+        <sys_package display_value="JH - ITSM TEST" source="a16cdc3047cc9910d93f7372846d430d">a16cdc3047cc9910d93f7372846d430d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JH - ITSM TEST">a16cdc3047cc9910d93f7372846d430d</sys_scope>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_8203b80f470895103d482462846d4304</sys_update_name>
+        <sys_updated_by>jiunhong.lim</sys_updated_by>
+        <sys_updated_on>2022-06-17 03:18:57</sys_updated_on>
+    </m2m_sp_ng_pro_sp_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JH - ITSM TEST">a16cdc3047cc9910d93f7372846d430d</application>
+        <file_path/>
+        <instance_id>1690ea83db1c8910e03ad7c8f49619f9</instance_id>
+        <instance_name>empjlim1</instance_name>
+        <name>m2m_sp_ng_pro_sp_widget_8203b80f470895103d482462846d4304</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget"><m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE"><sp_angular_provider display_value="spKBCategoryService">10eb7596c7033200b0b0409b9b97631c</sp_angular_provider><sp_widget display_value="Copy of KB Categories - KBv3">8203b80f470895103d482462846d4300</sp_widget><sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name><sys_created_by>jiunhong.lim</sys_created_by><sys_created_on>2022-06-17 03:18:57</sys_created_on><sys_id>8203b80f470895103d482462846d4304</sys_id><sys_mod_count>0</sys_mod_count><sys_name>spKBCategoryService.Copy of KB Categories - KBv3</sys_name><sys_package display_value="JH - ITSM TEST" source="a16cdc3047cc9910d93f7372846d430d">a16cdc3047cc9910d93f7372846d430d</sys_package><sys_policy/><sys_scope display_value="JH - ITSM TEST">a16cdc3047cc9910d93f7372846d430d</sys_scope><sys_update_name>m2m_sp_ng_pro_sp_widget_8203b80f470895103d482462846d4304</sys_update_name><sys_updated_by>jiunhong.lim</sys_updated_by><sys_updated_on>2022-06-17 03:18:57</sys_updated_on></m2m_sp_ng_pro_sp_widget></record_update>]]></payload>
+        <payload_hash>1741021339</payload_hash>
+        <record_name>spKBCategoryService.Copy of KB Categories - KBv3</record_name>
+        <reverted_from/>
+        <source>a10bd0fc478c9910d93f7372846d43f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jiunhong.lim</sys_created_by>
+        <sys_created_on>2022-06-17 03:18:57</sys_created_on>
+        <sys_id>4a03b80f470895103d482462846d4306</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1816fabc55e0000001</sys_recorded_at>
+        <sys_updated_by>jiunhong.lim</sys_updated_by>
+        <sys_updated_on>2022-06-17 03:18:57</sys_updated_on>
+        <type>Angular Providers</type>
+        <update_guid>8203b80ffb089510530a9d06f54d1806</update_guid>
+        <update_guid_history>8203b80ffb089510530a9d06f54d1806:1741021339</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="spKBCategoryService.Copy of KB Categories - KBv3">4edc9d4747c895103d482462846d4369</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jiunhong.lim</sys_created_by>
+        <sys_created_on>2022-06-17 06:21:37</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_ng_pro_sp_widget">m2m_sp_ng_pro_sp_widget</sys_db_object>
+        <sys_id>45b89f29c5df488ea2512d17960f4ea4</sys_id>
+        <sys_metadata>8203b80f470895103d482462846d4304</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>spKBCategoryService.Copy of KB Categories - KBv3</sys_name>
+        <sys_package display_value="JH - ITSM TEST" source="a16cdc3047cc9910d93f7372846d430d">a16cdc3047cc9910d93f7372846d430d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JH - ITSM TEST">a16cdc3047cc9910d93f7372846d430d</sys_scope>
+        <sys_scope_delete display_value="">0d1dfae512654fa694e193b29fa20924</sys_scope_delete>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_8203b80f470895103d482462846d4304</sys_update_name>
+        <sys_update_version display_value="m2m_sp_ng_pro_sp_widget_8203b80f470895103d482462846d4304">4a03b80f470895103d482462846d4306</sys_update_version>
+        <sys_updated_by>jiunhong.lim</sys_updated_by>
+        <sys_updated_on>2022-06-17 06:21:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
